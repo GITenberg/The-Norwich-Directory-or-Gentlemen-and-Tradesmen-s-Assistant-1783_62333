@@ -1,0 +1,23 @@
+_repo: The-Norwich-Directory-or-Gentlemen-and-Tradesmen-s-Assistant-1783_62333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, William
+    gutenberg_agent_id: '51905'
+    url: http://www.gutenberg.org/2009/agents/51905
+description: ''
+gutenberg_issued: '2020-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwich (England) -- History'
+- !lcc 'DA'
+- !lcsh 'Norwich (England) -- Directories'
+- GITenberg
+title: The Norwich Directory; or, Gentlemen and Tradesmen's Assistant [1783]
+url: http://www.gutenberg.org/ebooks/62333
